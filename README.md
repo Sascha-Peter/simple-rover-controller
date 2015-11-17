@@ -3,8 +3,9 @@
 Coding exercise to create a simple rover controller for remote controlled rovers.
 
 # Goal
-This coding exercise is aimed to create a controller logic for remote rovers which are
-controled by json files.
+This coding exercise is aimed to create a small rover command module logic which
+is capable of reading a json file with instructions and execute commands from the
+file.
 
 ## Requirements
 To run this project, the following requirements need to be met:
